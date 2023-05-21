@@ -10,3 +10,4 @@ Curso Cientista de Dados - GIT - Bolsa Santander
 
 * comando GIT PUSH
 * modificado remotamente, trazendo para arquivos locais.
+* comando git fetch
